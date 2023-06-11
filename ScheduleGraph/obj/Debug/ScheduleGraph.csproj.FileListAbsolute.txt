@@ -1,0 +1,12 @@
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\bin\Debug\ScheduleGraph.exe.config
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\bin\Debug\ScheduleGraph.exe
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\bin\Debug\ScheduleGraph.pdb
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.csproj.AssemblyReference.cache
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.Login.resources
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.Properties.Resources.resources
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.ScheduleMain.resources
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.csproj.GenerateResource.cache
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.csproj.CoreCompileInputs.cache
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.exe
+C:\Users\mkkt1\Downloads\ScheduleGraph\ScheduleGraph\obj\Debug\ScheduleGraph.pdb
